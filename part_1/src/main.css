@@ -1,0 +1,39 @@
+.root {
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    margin: 0;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+
+/* 1000 lines of code */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ff862f;
+    flex-basis: 100px;
+    text-align: center;
+}
+
+/* 1000 lines of code */
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #b987ff;
+    flex-grow: 1;
+    text-align: center;
+}
+
+/* 1000 lines of code */
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #98d7ff;
+    flex-basis: 100px;
+    text-align: center;
+}
