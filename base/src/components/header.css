@@ -1,0 +1,9 @@
+/* 1000 lines of code */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ff862f;
+    flex-basis: 100px;
+    text-align: center;
+}
