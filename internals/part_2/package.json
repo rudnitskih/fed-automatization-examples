@@ -1,0 +1,16 @@
+{
+  "name": "part_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass src/main-2.scss:dist/main.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concat": "^1.0.3",
+    "glob": "^7.1.4"
+  }
+}
