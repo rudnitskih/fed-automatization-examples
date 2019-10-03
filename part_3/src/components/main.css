@@ -1,0 +1,10 @@
+/* 1000 lines of code */
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #b987ff;
+    flex-grow: 1;
+    text-align: center;
+    display: flex;
+}

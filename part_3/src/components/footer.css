@@ -1,0 +1,13 @@
+/* 1000 lines of code */
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #98d7ff;
+    flex-basis: 100px;
+    text-align: center;
+}
+
+::placeholder {
+    color: gray;
+}
